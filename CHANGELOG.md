@@ -1,3 +1,12 @@
+## Lib.AspNetCore.ServerSentEvents 6.0.0
+### Additions and Changes
+- Changed support for ASP.NET Core 3.0.0 to ASP.NET Core 3.1.0
+- Added support for ASP.NET Core in .NET 5
+
+## Lib.AspNetCore.ServerSentEvents 5.1.0
+### Additions and Changes
+- Exposed way to provide ReconnectInterval through ServerSentEventsServiceOptions.
+
 ## Lib.AspNetCore.ServerSentEvents 5.0.0
 ### Additions and Changes
 - Changed the collection of key/value pairs to store additional information for clients to thread safe methods (thank you @sebastiano1972)
